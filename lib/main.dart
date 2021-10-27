@@ -15,8 +15,7 @@ class MyApp extends StatelessWidget {
       ),
       themeMode: ThemeMode.light,
       darkTheme: ThemeData(
-        brightness: Brightness.light,
-        primarySwatch: Colors.red,
+        day1
         fontFamily: GoogleFonts.lato().fontFamily,
         primaryTextTheme: GoogleFonts.latoTextTheme(),
       ),
